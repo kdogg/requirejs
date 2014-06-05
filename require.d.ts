@@ -1,1 +1,1 @@
-/home/ken/WTS/wtswiki/d.ts/require.d.ts
+../../d.ts/require.d.ts
